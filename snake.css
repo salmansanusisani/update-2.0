@@ -1,0 +1,30 @@
+#gameContainer {
+    text-align: center;
+
+}
+
+#gameBoard {
+    border: 3px solid;
+}
+
+#scoreText {
+    font-family: monospace, consolas;
+    font-size: 100px;
+}
+
+#resetBtn {
+    font-family: monospace, consolas;
+    font-size: 20px;
+    width: 100px;
+    border: 2px solid;
+    border-radius: 20px;
+    border-color: gray;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+#resetBtn:hover {
+    color: black;
+    background-color: white;
+}
